@@ -1,3 +1,4 @@
+<a href="https://travis-ci.org/corsoft/activemq-spring-client"><img src="https://travis-ci.org/corsoft/activemq-spring-client.svg"/></a>
 activemq-spring-client
 ======================
 

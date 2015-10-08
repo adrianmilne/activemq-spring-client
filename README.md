@@ -2,10 +2,12 @@
 activemq-spring-client
 ======================
 
+<img src="http://www.adrianmilne.com/wp-content/uploads/2013/03/feature-image-template-activemq.png"/>
+
 Simple template spring client to send ObjectMessages to an ActiveMQ endpoint
 
 Featured on Javalobby:
 http://java.dzone.com/articles/spring-activemq-producer
 
 And on my blog:
-http://corsoftlimited.blogspot.co.uk/2013/03/spring-activemq-producer-client-template.html
+http://www.adrianmilne.com/spring-activemq-producer-client-template/
